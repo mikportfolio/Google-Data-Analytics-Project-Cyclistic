@@ -2,7 +2,7 @@
 #Date: 28/11/23 11:58PM
 #By: Mik PE
 #Dataset: Cyclistic (from Google Data Analytics Certificate)
-
+#Script: Cleaning
 
 ######################################
 # Step 1: Install packages           #
